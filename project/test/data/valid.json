@@ -1,0 +1,30 @@
+[
+  {
+    "name": "almalinux",
+    "os": true,
+    "versions": [
+      {
+        "cycle": "9",
+        "releaseDate": "2022-05-26",
+        "support": "2027-05-31",
+        "eol": "2032-05-31",
+        "latest": "9.1",
+        "link": "https://almalinux.org/blog/almalinux-91-now-available/",
+        "lts": false
+      }
+    ]
+  },
+  {
+    "name": "alpine",
+    "os": true,
+    "versions": [
+      {
+        "cycle": "3.17",
+        "releaseDate": "2022-11-22",
+        "eol": "2024-11-22",
+        "latest": "3.17.3",
+        "lts": false
+      }
+    ]
+  }
+]

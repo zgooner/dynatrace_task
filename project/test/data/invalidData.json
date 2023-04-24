@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Windows",
+    "os": true,
+    "versions": [
+      {
+        "releaseDate": "2022-01-01",
+        "eol": "2023-01-01",
+        "cycle": "3"
+      },
+      {
+        "releaseDate": "invalid date",
+        "eol": "2024-01-01",
+        "cycle": "2"
+      }
+    ]
+  }
+]
